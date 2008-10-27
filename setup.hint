@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin libICE6 libSM6 libX11_6 libXaw8
-sdesc: "Xorg session manager"
-ldesc: "Xorg session manager"
+requires: cygwin libICE6 libSM6 libX11_6 libXaw7 libXt6
+sdesc: "X.Org session manager"
+ldesc: "X.Org session manager"
