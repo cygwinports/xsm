@@ -1,4 +1,0 @@
-category: X11
-requires: libICE6 libSM6 libX11_6 libXaw7 libXt6
-sdesc: "X.Org session manager"
-ldesc: "X.Org session manager"
